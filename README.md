@@ -49,5 +49,5 @@ Learned more about CSS viewpoint sizes and layout
 
 <!-- - Website - [Add your name here](https://www.your-site.com) -->
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/tchananet)
+- Frontend Mentor - [@tchananet](https://www.frontendmentor.io/profile/tchananet)
 <!-- - Twitter - [@yourusername](https://www.twitter.com/yourusername) -->
